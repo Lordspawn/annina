@@ -1,0 +1,22 @@
+{
+  "name": "annina",
+  "version": "1.0.0",
+  "description": "test site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordspawn/annina.git"
+  },
+  "author": "ip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lordspawn/annina/issues"
+  },
+  "homepage": "https://github.com/Lordspawn/annina#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
